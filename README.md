@@ -10,3 +10,4 @@ This project involves the process of combining, cleaning, and transforming custo
 - **Preparation for Analysis**: Optimized the data structure, making it ready for downstream analytics, visualization, or reporting purposes.
 
 This project serves as a foundational step in ensuring that the customer order data is clean, well-structured, and ready for more advanced data analysis.
+![Alt Text](https://github.com/GaneshMenon/Datacamp-Case-Study/blob/main/Datacamp%20Case%20Study.jpg)
